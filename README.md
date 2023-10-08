@@ -2,7 +2,7 @@
 
 *Note: For the .html file, download it and open on your browser. For previews, click on these links*: 
 
-1. Optic Tectum: http://rpubs.com/nguyenminhvinhky/1038721
+1. Optic Tectum: [http://rpubs.com/nguyenminhvinhky/1041529](https://rpubs.com/nguyenminhvinhky/1041529)
 2. Torus Semicircularis: https://rpubs.com/nguyenminhvinhky/1041742
 
 
